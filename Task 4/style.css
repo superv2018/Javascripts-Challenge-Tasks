@@ -1,0 +1,10 @@
+.hide {
+  visibility: hidden;
+}
+
+div {
+  margin: 500px auto;
+  border: 1px solid green;
+  width: 200px;
+  height: 100px;
+}

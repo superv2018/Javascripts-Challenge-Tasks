@@ -1,2 +1,2 @@
 # Javascripts-Challenge-Tasks
-These are different javascripts tasks i solved. It done to sharpen my javascripts skills.
+These are different JavaScripts tasks I solved to sharpen my skills.
